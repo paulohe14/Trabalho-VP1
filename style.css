@@ -1,0 +1,101 @@
+a {
+    font-family: Arial, sans-serif ;
+}
+
+a.title-principal {
+    margin-left: 4em;
+    color: #0489D0;
+}
+
+a.title-posts {
+    color: #6ACA25;
+}
+
+h1 {
+    text-align: center;
+    color: #0489D0;
+}
+
+h2 {
+    text-align: left;
+    color: #6ACA25;
+}
+
+h3 {
+    color: #0489D0;
+}
+
+p {
+    font-size: 12pt;
+}
+
+img.logomarca {
+    margin: 10pt 10pt 18pt 27pt;
+}
+
+footer {
+    margin-top: 0;
+    padding: 1em;
+    background-color: #EFEFEF;
+}
+
+.informacoes {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.redes-sociais {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.rodape {
+    margin-top: -6px;
+}
+
+.copyright {
+    margin-bottom: -1em;
+    margin-left: -1em;
+    margin-right: -1em;
+    margin-top: 1em;
+}
+
+.container-fluid {
+    background-color: #e1e1e1;
+}
+
+.quem-somos {
+    font-size: 36pt;
+    font-family: Arial, sans-serif;
+    color: #0489D0;
+    margin-left: 18pt;
+}
+
+.dietas {
+    font-size: 36pt;
+    font-family: Arial, sans-serif;
+    color: #0489D0;
+    margin-left: 10pt;
+}
+
+.exercicios {
+    font-size: 36pt;
+    font-family: Arial, sans-serif;
+    color: #0489D0;
+    margin-left: 10pt;
+}
+
+.contato {
+    font-size: 36pt;
+    font-family: Arial, sans-serif;
+    color: #0489D0;
+    margin-left: 10pt;
+}
+
+.formulario {
+    padding: 2em;
+    border: dashed #cccccc;
+    background-color: #e8e8e8;
+    margin-top: 1em;
+    margin-bottom: 3em;
+}
